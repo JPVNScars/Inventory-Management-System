@@ -1,0 +1,7 @@
+{
+  "name": "Inventory Mate",
+  "description": "A modern, neumorphic inventory management system for warehouse employees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
